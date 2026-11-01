@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nama": "Upper Body A",
+    "fokus": "Biseps, bahu, dan triseps"
+  },
+  {
+    "id": 2,
+    "nama": "Lower Body",
+    "fokus": "Paha, betis, dan glutes"
+  },
+  {
+    "id": 3,
+    "nama": "Core Training",
+    "fokus": "Otot perut dan stabilitas tubuh"
+  },
+  {
+    "id": 4,
+    "nama": "Full Body",
+    "fokus": "Tubuh bagian atas dan bawah"
+  }
+]

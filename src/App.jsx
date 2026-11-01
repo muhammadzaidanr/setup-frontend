@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import FormRoutine from "./components/FormRoutine";
 import DaftarRoutine from "./components/DaftarRoutine";
 import RingkasanRoutine from "./components/RingkasanRoutine";
+import ReferensiRoutine from "./components/ReferensiRoutine";
 
 function App() {
   const [daftarRoutine, setDaftarRoutine] = useState([]);
@@ -42,6 +43,8 @@ function App() {
       <RingkasanRoutine jumlah={daftarRoutine.length} />
 
       <DaftarRoutine daftarRoutine={daftarRoutine} />
+
+      <ReferensiRoutine />
     </div>
   );
 }
